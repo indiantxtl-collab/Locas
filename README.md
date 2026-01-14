@@ -62,7 +62,7 @@ This project values:
 Practical ideas
 Local-first thinking
 Clean, simple systems
-Real-world usability
+
 📄 License
 License will be defined as the platform evolves.
 (Open-source friendly direction intended.)
@@ -70,3 +70,5 @@ License will be defined as the platform evolves.
 For support or collaboration:
 Email: maurya@locas.online
 Website: https://locas.page
+About 
+https://drive.google.com/file/d/1KNbXHt1xMBkZXCRux_hpAWU6mhEWI6cW/view?usp=drivesdk
